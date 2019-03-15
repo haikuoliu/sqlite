@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"strings"
 
-	"crawshaw.io/sqlite"
+	"github.com/haikuoliu/sqlite"
 )
 
 // Exec executes an SQLite query.
